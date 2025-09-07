@@ -54,7 +54,7 @@ class App extends Component {
 
           <main className="main">
             <Routes>
-              <Route path="/" element={<Navigate to="/login" />} />
+              <Route path="/" element={<Navigate to="/register" />} />
 
               <Route
                 path="/login"
