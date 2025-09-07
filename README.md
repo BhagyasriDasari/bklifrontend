@@ -1,5 +1,7 @@
 #Login Frontend
 
+Deployed Link:https://bklifrontend.vercel.app/register
+
 This is the **frontend** of the Klickks application, built using **React.js** with class components (no hooks). It provides a user-friendly interface for registering, logging in, and accessing a protected dashboard.
 
 ## Features
